@@ -1,0 +1,18 @@
+#form_contacto label {
+    visibility: hidden;
+}
+
+p.exito {
+    font-size: 20px;
+    padding: 1em;
+    border: 2px solid green;
+    background: lightgreen;
+}
+
+p.error {
+    font-size: 1.5em;
+    padding: 1em;
+    border: 2px solid red;
+    background: #ff8787;
+}
+
